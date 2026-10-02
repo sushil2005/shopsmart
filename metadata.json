@@ -1,0 +1,6 @@
+{
+  "name": "ShopSmart",
+  "description": "Discover products, compare features and prices, and get AI-powered shopping assistance in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
