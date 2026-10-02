@@ -155,6 +155,3 @@ For production deployments, all calls to Gemini or third-party APIs should be ro
 * User-submitted reviews with image upload support
 * Personalized recommendation vectors based on user browsing history
 
-## License
-
-MIT License
